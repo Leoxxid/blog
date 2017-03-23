@@ -1,0 +1,29 @@
+{:uriI"µfile://app/assets/global/plugins/amcharts/ammap/plugins/dataloader/examples/data/gauge.json?type=application/json&id=7fa4e0fd3c345e80ac73c71b049791b52a1cc54d17683042a5932286671a4a67:ET:load_pathI"app/assets/global;T:filenameI"Yapp/assets/global/plugins/amcharts/ammap/plugins/dataloader/examples/data/gauge.json;T:	nameI"Bplugins/amcharts/ammap/plugins/dataloader/examples/data/gauge;T:logical_pathI"Gplugins/amcharts/ammap/plugins/dataloader/examples/data/gauge.json;T:content_typeI"application/json;T:sourceI"‘[ {
+  "innerRadius": 70,
+  "nailRadius": 0,
+  "radius": "80%",
+  "startWidth": 10,
+  "endWidth": 10,
+  "value": 4
+}, {
+  "innerRadius": 70,
+  "nailRadius": 0,
+  "radius": "100%",
+  "startWidth": 6,
+  "endWidth": 6,
+  "value": 8
+}, {
+  "axis": "axis2",
+  "color": "#CC0000",
+  "innerRadius": 50,
+  "nailRadius": 0,
+  "radius": "100%",
+  "startWidth": 6,
+  "endWidth": 6,
+  "alpha": 1,
+  "value": 11
+} ];T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/global/plugins/amcharts/ammap/plugins/dataloader/examples/data/gauge.json;TTF:charsetI"
+utf-8;F:digest"%S˜ÕÖWÑa©[•S’YŠkX)Ótï|¹º^ñVû:lengthi‘:dependencies_digest"%¤_ÌÄ‚û&–ÄvãàF<~'4×äÎÊ½ç¥ná˜:idI"E7fa4e0fd3c345e80ac73c71b049791b52a1cc54d17683042a5932286671a4a67;F:
+mtimel+”©òW

@@ -1,0 +1,50 @@
+{:uriI"ôfile://app/assets/global/plugins/codemirror/mode/asciiarmor/index.html?type=text/html&id=1f02021d84d19812008c9d00c2bd6d3e946356c13d6a652297a57eeeda5656de:ET:load_pathI"app/assets/global;T:filenameI"Dapp/assets/global/plugins/codemirror/mode/asciiarmor/index.html;T:	nameI"-plugins/codemirror/mode/asciiarmor/index;T:logical_pathI"2plugins/codemirror/mode/asciiarmor/index.html;T:content_typeI"text/html;T:sourceI"¯<!doctype html>
+<title>CodeMirror: ASCII Armor (PGP) mode</title>
+<meta charset="utf-8" />
+<link rel=stylesheet href="../../doc/docs.css">
+<link rel="stylesheet" href="../../lib/codemirror.css">
+<script src="../../lib/codemirror.js"></script>
+<script src="asciiarmor.js"></script>
+<style>
+    .CodeMirror {
+        background: #f8f8f8;
+    }
+</style>
+<div id=nav>
+    <a href="http://codemirror.net">
+        <h1>CodeMirror</h1>
+        <img id=logo src="../../doc/logo.png">
+    </a>
+    <ul>
+        <li>
+            <a href="../../index.html">Home</a>
+            <li>
+                <a href="../../doc/manual.html">Manual</a>
+                <li>
+                    <a href="https://github.com/codemirror/codemirror">Code</a>
+    </ul>
+    <ul>
+        <li>
+            <a href="../index.html">Language modes</a>
+            <li>
+                <a class=active href="#">ASCII Armor</a>
+    </ul>
+</div>
+<article>
+    <h2>ASCII Armor (PGP) mode</h2>
+    <form>
+        <textarea id="code" name="code"> -----BEGIN PGP MESSAGE----- Version: OpenPrivacy 0.99 yDgBO22WxBHv7O8X7O/jygAEzol56iUKiXmV+XmpCtmpqQUKiQrFqclFqUDBovzS vBSFjNSiVHsuAA== =njUN -----END PGP MESSAGE----- </textarea>
+    </form>
+    <script>
+        var editor = CodeMirror.fromTextArea(document.getElementById("code"),
+        {
+            lineNumbers: true
+        });
+    </script>
+    <p>
+        <strong>MIME types defined:</strong> <code>application/pgp</code>, <code>application/pgp-keys</code>, <code>application/pgp-signature</code></p>
+</article>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Rfile-digest://app/assets/global/plugins/codemirror/mode/asciiarmor/index.html;TTF:charsetI"
+utf-8;F:digest"%µÄ∑D,•)??:Èì±œØæû)ì– ¨9Ÿ€Î:lengthi¯:dependencies_digest"%ﬂ˛˘/*y?‘£Òy⁄ƒëñçb‡ÕŸ‰yC‹:idI"E1f02021d84d19812008c9d00c2bd6d3e946356c13d6a652297a57eeeda5656de;F:
+mtimel+\ØÚW

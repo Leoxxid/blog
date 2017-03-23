@@ -1,0 +1,31 @@
+{:uriI"ófile://app/assets/global/plugins/jquery-file-upload/cors/result.html?type=text/html&id=baddf57613f70e83d4d3eaf3ab46dc9b18f8b5c39c10bb222531be9f2f2d9171:ET:load_pathI"app/assets/global;T:filenameI"Bapp/assets/global/plugins/jquery-file-upload/cors/result.html;T:	nameI"+plugins/jquery-file-upload/cors/result;T:logical_pathI"0plugins/jquery-file-upload/cors/result.html;T:content_typeI"text/html;T:sourceI"U<!DOCTYPE HTML>
+<!--
+/*
+ * jQuery Iframe Transport Plugin Redirect Page
+ * https://github.com/blueimp/jQuery-File-Upload
+ *
+ * Copyright 2010, Sebastian Tschan
+ * https://blueimp.net
+ *
+ * Licensed under the MIT license:
+ * http://www.opensource.org/licenses/MIT
+ */
+-->
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <title>jQuery Iframe Transport Plugin Redirect Page</title>
+    </head>
+
+    <body>
+        <script>
+            document.body.innerText = document.body.textContent = decodeURIComponent(window.location.search.slice(1));
+        </script>
+    </body>
+
+</html>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Pfile-digest://app/assets/global/plugins/jquery-file-upload/cors/result.html;TTF:charsetI"
+utf-8;F:digest"%F«’ú©S5¿¯ÿw[M¡Ê6]]≠Ï4=ó›4‘©Ö:lengthiU:dependencies_digest"%_ÂD#ém®ê¯-Á~kl`œ+˜ù-’Ó&6©oa+:idI"Ebaddf57613f70e83d4d3eaf3ab46dc9b18f8b5c39c10bb222531be9f2f2d9171;F:
+mtimel+\ØÚW

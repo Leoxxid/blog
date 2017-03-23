@@ -1,0 +1,32 @@
+{:uriI"”file://app/assets/global/plugins/jstree/jstree.jquery.json?type=application/json&id=1105632f97930e9b0eedeb06b77e5a11620e3f24f72d6e6ef0fe3d234a895e0a:ET:load_pathI"app/assets/global;T:filenameI"8app/assets/global/plugins/jstree/jstree.jquery.json;T:	nameI"!plugins/jstree/jstree.jquery;T:logical_pathI"&plugins/jstree/jstree.jquery.json;T:content_typeI"application/json;T:sourceI"{
+	"name": "jstree",
+	"title": "jsTree",
+	"description": "Tree view for jQuery",
+	"version": "3.0.4",
+	"homepage": "http://jstree.com",
+	"keywords": [
+		"ui",
+		"tree",
+		"jstree"
+	],
+	"author": {
+		"name": "Ivan Bozhanov",
+		"email": "jstree@jstree.com",
+		"url": "http://vakata.com"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/vakata/jstree/blob/master/LICENSE-MIT"
+		}
+	],
+	"bugs": "https://github.com/vakata/jstree/issues",
+	"demo": "http://jstree.com/demo",
+	"dependencies": {
+		"jquery": ">=1.9.1"
+	}
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ffile-digest://app/assets/global/plugins/jstree/jstree.jquery.json;TTF:charsetI"
+utf-8;F:digest"%Ñ8éŒ4oË¹Ğfsàä¥M;íÉ-jFÃÒ;Ø¯Sv~:lengthi:dependencies_digest"%J“S6£+Ö„¼P5AìâÑÂS,¯•M_{&:idI"E1105632f97930e9b0eedeb06b77e5a11620e3f24f72d6e6ef0fe3d234a895e0a;F:
+mtimel+¢©òW

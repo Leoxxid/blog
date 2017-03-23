@@ -1,0 +1,51 @@
+{:uriI"èfile://app/assets/global/plugins/morris/examples/resize.html?type=text/html&id=dd69fdbc4c92ce1fc9c2f00cf02537ee7c92c1e03796d4c64534e2af518f0c32:ET:load_pathI"app/assets/global;T:filenameI":app/assets/global/plugins/morris/examples/resize.html;T:	nameI"#plugins/morris/examples/resize;T:logical_pathI"(plugins/morris/examples/resize.html;T:content_typeI"text/html;T:sourceI"¬<!doctype html>
+
+<head>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js"></script>
+    <script src="../morris.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.js"></script>
+    <script src="lib/example.js"></script>
+    <link rel="stylesheet" href="lib/example.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.css">
+    <link rel="stylesheet" href="../morris.css">
+    <style>
+        body {
+            width: 100%;
+        }
+        
+        #graph {
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Formatting Dates YYYY-MM-DD</h1>
+    <div id="graph"></div> <pre id="code" class="prettyprint linenums">
+/* data stolen from http://howmanyleft.co.uk/vehicle/jaguar_'e'_type */
+var day_data = [
+  {"period": "2012-10-01", "licensed": 3407, "sorned": 660},
+  {"period": "2012-09-30", "licensed": 3351, "sorned": 629},
+  {"period": "2012-09-29", "licensed": 3269, "sorned": 618},
+  {"period": "2012-09-20", "licensed": 3246, "sorned": 661},
+  {"period": "2012-09-19", "licensed": 3257, "sorned": 667},
+  {"period": "2012-09-18", "licensed": 3248, "sorned": 627},
+  {"period": "2012-09-17", "licensed": 3171, "sorned": 660},
+  {"period": "2012-09-16", "licensed": 3171, "sorned": 676},
+  {"period": "2012-09-15", "licensed": 3201, "sorned": 656},
+  {"period": "2012-09-10", "licensed": 3215, "sorned": 622}
+];
+Morris.Line({
+  element: 'graph',
+  data: day_data,
+  xkey: 'period',
+  ykeys: ['licensed', 'sorned'],
+  labels: ['Licensed', 'SORN'],
+  resize: true
+});
+</pre> </body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Hfile-digest://app/assets/global/plugins/morris/examples/resize.html;TTF:charsetI"
+utf-8;F:digest"%™ç'‚â9˘hp?·Llîv≠ª'y8HÔ3öG·ÔÖû:lengthi¬:dependencies_digest"%Dà≈Œ62MÃ⁄ƒÿ’òÕ˜?∆ÊZ˚≈ﬂ¿íb48‹¸oqo:idI"Edd69fdbc4c92ce1fc9c2f00cf02537ee7c92c1e03796d4c64534e2af518f0c32;F:
+mtimel+\ØÚW

@@ -1,0 +1,55 @@
+{:uriI"Šfile://app/assets/global/plugins/mapplic/uk.json?type=application/json&id=ff83976dec9ded39b7b1c76c5d76dd5b830ef062311511e920a5b518dc421b38:ET:load_pathI"app/assets/global;T:filenameI".app/assets/global/plugins/mapplic/uk.json;T:	nameI"plugins/mapplic/uk;T:logical_pathI"plugins/mapplic/uk.json;T:content_typeI"application/json;T:sourceI"+{
+	"mapwidth":"690",
+	"mapheight":"982",
+	"categories":[
+
+	],
+	"levels":[
+		{
+			"id":"uk",
+			"title":"United Kingdom",
+			"map":"maps/uk.svg",
+			"locations":[
+				{
+					"id": "manchester",
+					"title": "Manchester",
+					"description": "<p>Donec et pretium justo</p>",
+					"pin": "circular",
+					"x": "0.5698",
+					"y": "0.6071"
+				},
+				{
+					"id": "north-west",
+					"title": "North West",
+					"description": "It is the third most populated region after the South East and Greater London.",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.5395",
+					"y": "0.5749"
+				},
+				{
+					"id": "london",
+					"title": "Greater London",
+					"description": "<p>London is divided into the small City of London and the much wider Greater London.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.7933",
+					"y": "0.8181"
+				},
+				{
+					"id": "south-east",
+					"title": "South East",
+					"description": "<p>Lorem ipsum.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.7282",
+					"y": "0.8297"
+				}
+			]
+		}
+	]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"<file-digest://app/assets/global/plugins/mapplic/uk.json;TTF:charsetI"
+utf-8;F:digest"%Ù¤©â3¾"k©âé1•eŽfb+“o[ŸE}—m:lengthi+:dependencies_digest"%Z_$––¬A	‡ÓÔn'ÈFi¦rç°Õ7æË#=ïò†SÊ:idI"Eff83976dec9ded39b7b1c76c5d76dd5b830ef062311511e920a5b518dc421b38;F:
+mtimel+¢©òW

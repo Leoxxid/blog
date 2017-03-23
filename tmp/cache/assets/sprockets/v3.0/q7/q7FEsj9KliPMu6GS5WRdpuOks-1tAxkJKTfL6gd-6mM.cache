@@ -1,0 +1,64 @@
+{:uriI"•file://app/assets/global/plugins/cubeportfolio/ajax/loadMore2.html?type=text/html&id=ce28e55d2a7d47396621190b1c9b47a56097583c6796e5d70c7ac973cfde3e04:ET:load_pathI"app/assets/global;T:filenameI"@app/assets/global/plugins/cubeportfolio/ajax/loadMore2.html;T:	nameI")plugins/cubeportfolio/ajax/loadMore2;T:logical_pathI".plugins/cubeportfolio/ajax/loadMore2.html;T:content_typeI"text/html;T:sourceI"Ý<div class="cbp-loadMore-block1">
+    <div class="web-design cbp-item">
+        <a href="../assets/global/img/portfolio/1200x900/4.jpg" class="cbp-caption cbp-lightbox" data-title="Flat Roman Typeface Ui<br>by Cosmin Capitanu">
+            <div class="cbp-caption-defaultWrap">
+                <img src="../assets/global/img/portfolio/600x600/60.jpg" alt=""> </div>
+            <div class="cbp-caption-activeWrap">
+                <div class="cbp-l-caption-alignCenter">
+                    <div class="cbp-l-caption-body">
+                        <div class="cbp-l-caption-title">Flat Roman Typeface Ui</div>
+                        <div class="cbp-l-caption-desc">by Cosmin Capitanu</div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="motion web-design cbp-item">
+        <a href="../assets/global/img/portfolio/1200x900/08.jpg" class="cbp-caption cbp-lightbox" data-title="Music Player<br>by Cosmin Capitanu">
+            <div class="cbp-caption-defaultWrap">
+                <img src="../assets/global/img/portfolio/600x600/64.jpg" alt=""> </div>
+            <div class="cbp-caption-activeWrap">
+                <div class="cbp-l-caption-alignCenter">
+                    <div class="cbp-l-caption-body">
+                        <div class="cbp-l-caption-title">Music Player</div>
+                        <div class="cbp-l-caption-desc">by Cosmin Capitanu</div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+<div class="cbp-loadMore-block2">
+    <div class="print cbp-item">
+        <a href="../assets/global/img/portfolio/1200x900/06.jpg" class="cbp-caption cbp-lightbox" data-title="Speed Detector<br>by Cosmin Capitanu">
+            <div class="cbp-caption-defaultWrap">
+                <img src="../assets/global/img/portfolio/600x600/9.jpg" alt=""> </div>
+            <div class="cbp-caption-activeWrap">
+                <div class="cbp-l-caption-alignCenter">
+                    <div class="cbp-l-caption-body">
+                        <div class="cbp-l-caption-title">Speed Detector</div>
+                        <div class="cbp-l-caption-desc">by Cosmin Capitanu</div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="motion web-design cbp-item">
+        <a href="../assets/global/img/portfolio/1200x900/82.jpg" class="cbp-caption cbp-lightbox" data-title="Sonor Website<br>by Cosmin Capitanu">
+            <div class="cbp-caption-defaultWrap">
+                <img src="../assets/global/img/portfolio/600x600/8.jpg" alt=""> </div>
+            <div class="cbp-caption-activeWrap">
+                <div class="cbp-l-caption-alignCenter">
+                    <div class="cbp-l-caption-body">
+                        <div class="cbp-l-caption-title">Sonor Website</div>
+                        <div class="cbp-l-caption-desc">by Cosmin Capitanu</div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Nfile-digest://app/assets/global/plugins/cubeportfolio/ajax/loadMore2.html;TTF:charsetI"
+utf-8;F:digest"%#q{¾Õ´ÀsR‰ëÔ_HõÚ5$Ê´ÐÊÃ]‡6(EÆ’:lengthiÝ:dependencies_digest"%ë8ìpÑ—ÈxC7Ž ¬dõó¤[ü}1O˜€-IB¸:idI"Ece28e55d2a7d47396621190b1c9b47a56097583c6796e5d70c7ac973cfde3e04;F:
+mtimel+\¯òW

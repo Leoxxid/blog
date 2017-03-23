@@ -1,0 +1,57 @@
+{:uriI"”file://app/assets/global/plugins/codemirror/mode/swift/index.html?type=text/html&id=7cebb1554e36386b3043c723044cc0b032e1ea1fbb2d7efa083c0f2cccac755d:ET:load_pathI"app/assets/global;T:filenameI"?app/assets/global/plugins/codemirror/mode/swift/index.html;T:	nameI"(plugins/codemirror/mode/swift/index;T:logical_pathI"-plugins/codemirror/mode/swift/index.html;T:content_typeI"text/html;T:sourceI"¸<!doctype html>
+<title>CodeMirror: Swift mode</title>
+<meta charset="utf-8" />
+<link rel=stylesheet href="../../doc/docs.css">
+<link rel="stylesheet" href="../../lib/codemirror.css">
+<script src="../../lib/codemirror.js"></script>
+<script src="../../addon/edit/matchbrackets.js"></script>
+<script src="./swift.js"></script>
+<style>
+    .CodeMirror {
+        border: 2px inset #dee;
+    }
+</style>
+<div id=nav>
+    <a href="http://codemirror.net">
+        <h1>CodeMirror</h1>
+        <img id=logo src="../../doc/logo.png">
+    </a>
+    <ul>
+        <li>
+            <a href="../../index.html">Home</a>
+            <li>
+                <a href="../../doc/manual.html">Manual</a>
+                <li>
+                    <a href="https://github.com/codemirror/codemirror">Code</a>
+    </ul>
+    <ul>
+        <li>
+            <a href="../index.html">Language modes</a>
+            <li>
+                <a class=active href="#">Swift</a>
+    </ul>
+</div>
+<article>
+    <h2>Swift mode</h2>
+    <form>
+        <textarea id="code" name="code"> // // TipCalculatorModel.swift // TipCalculator // // Created by Main Account on 12/18/14. // Copyright (c) 2014 Razeware LLC. All rights reserved. // import Foundation class TipCalculatorModel { var total: Double var taxPct: Double var subtotal:
+            Double { get { return total / (taxPct + 1) } } init(total: Double, taxPct: Double) { self.total = total self.taxPct = taxPct } func calcTipWithTipPct(tipPct: Double) -> Double { return subtotal * tipPct } func returnPossibleTips() -> [Int:
+            Double] { let possibleTipsInferred = [0.15, 0.18, 0.20] let possibleTipsExplicit:[Double] = [0.15, 0.18, 0.20] var retval = [Int: Double]() for possibleTip in possibleTipsInferred { let intPct = Int(possibleTip*100) retval[intPct] = calcTipWithTipPct(possibleTip)
+            } return retval } } </textarea>
+    </form>
+    <script>
+        var editor = CodeMirror.fromTextArea(document.getElementById("code"),
+        {
+            lineNumbers: true,
+            matchBrackets: true,
+            mode: "text/x-swift"
+        });
+    </script>
+    <p>A simple mode for Swift</p>
+    <p>
+        <strong>MIME types defined:</strong> <code>text/x-swift</code> (Swift code)</p>
+</article>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Mfile-digest://app/assets/global/plugins/codemirror/mode/swift/index.html;TTF:charsetI"
+utf-8;F:digest"%yŠ-o½ïÃÏhë9À`ÚVùØ9…ü÷eÂÙAP‡ä:lengthi¸:dependencies_digest"%‰:9–”»º8«§¡¿´M¼Ö&0pD‡íoŒSNI:idI"E7cebb1554e36386b3043c723044cc0b032e1ea1fbb2d7efa083c0f2cccac755d;F:
+mtimel+^¯òW

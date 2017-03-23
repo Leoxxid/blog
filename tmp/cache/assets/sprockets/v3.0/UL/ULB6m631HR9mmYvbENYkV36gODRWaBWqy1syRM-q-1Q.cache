@@ -1,0 +1,33 @@
+{:uriI"îfile://app/assets/global/plugins/cubeportfolio/ajax/project3.html?type=text/html&id=f8af33cfb4053206f74f8a7f1917e15a8af9e0e5e68dc0a6e10c2d290c432978:ET:load_pathI"app/assets/global;T:filenameI"?app/assets/global/plugins/cubeportfolio/ajax/project3.html;T:	nameI"(plugins/cubeportfolio/ajax/project3;T:logical_pathI"-plugins/cubeportfolio/ajax/project3.html;T:content_typeI"text/html;T:sourceI"u<div class="cbp-l-inline">
+    <div class="cbp-l-inline-left">
+        <div class="row">
+            <div class="col-sm-6 portfolio-tile">
+                <a href="../assets/global/img/portfolio/1200x900/9.jpg" class="cbp-lightbox">
+                    <img src="../assets/global/img/portfolio/600x600/11.jpg" alt=""> </a>
+            </div>
+            <div class="col-sm-6 portfolio-tile">
+                <a href="../assets/global/img/portfolio/1200x900/13.jpg" class="cbp-lightbox">
+                    <img src="../assets/global/img/portfolio/600x600/12.jpg" alt=""> </a>
+            </div>
+            <div class="col-sm-6">
+                <a href="../assets/global/img/portfolio/1200x900/15.jpg" class="cbp-lightbox">
+                    <img src="../assets/global/img/portfolio/600x600/23.jpg" alt=""> </a>
+            </div>
+            <div class="col-sm-6">
+                <a href="../assets/global/img/portfolio/1200x900/18.jpg" class="cbp-lightbox">
+                    <img src="../assets/global/img/portfolio/600x600/14.jpg" alt=""> </a>
+            </div>
+        </div>
+    </div>
+    <div class="cbp-l-inline-right">
+        <div class="cbp-l-inline-title">Bolt UI</div>
+        <div class="cbp-l-inline-subtitle">by Tiberiu Neamu</div>
+        <div class="cbp-l-inline-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, cumque, earum blanditiis incidunt minus commodi consequatur provident quae. Nihil, alias, vel consequatur ab aliquam aspernatur optio harum facilis excepturi mollitia autem
+            voluptas cum ex veniam numquam quia repudiandae in iure. Assumenda, vel provident molestiae perferendis officia commodi asperiores earum sapiente inventore quam deleniti mollitia consequatur expedita quaerat natus praesentium beatae!</div>
+        <a href="#" target="_blank" class="cbp-l-inline-view btn blue btn-outline">VIEW PROJECT</a>
+    </div>
+</div>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Mfile-digest://app/assets/global/plugins/cubeportfolio/ajax/project3.html;TTF:charsetI"
+utf-8;F:digest"%Éö,á|	º%çN-ﬁ‚n¡ÆC¶eºDmê3-GáÅ÷l:lengthiu:dependencies_digest"%2öﬂÇëÃ¡lØ"Õ?Èºõ˚ƒ°+œpÆ˘<{¶‰∏:idI"Ef8af33cfb4053206f74f8a7f1917e15a8af9e0e5e68dc0a6e10c2d290c432978;F:
+mtimel+\ØÚW
